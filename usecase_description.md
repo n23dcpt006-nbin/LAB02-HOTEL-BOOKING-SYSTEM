@@ -1,8 +1,6 @@
 
 # Use Case Descriptions
 
----
-
 ## UC-01: Book Room (Online)
 - **Mã:** UC-01
 - **Tên:** Đặt phòng online
@@ -28,8 +26,6 @@
   - Nếu thất bại: không có Reservation; Guest được thông báo.
 - **Mức ưu tiên:** Cao
 - **Tần suất:** Cao
-
----
 
 ## UC-02: Check-in / Check-out (Receptionist)
 - **Mã:** UC-02
