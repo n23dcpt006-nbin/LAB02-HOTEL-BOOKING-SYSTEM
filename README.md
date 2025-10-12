@@ -12,10 +12,6 @@ Thiết kế Use Case, Sequence Diagram và ERD cho hệ thống quản lý đ�
 - jira-backlog.md
 - Readme.md: file này
 
-## Hướng dẫn mở & export PlantUML
-- Cài extension PlantUML cho VSCode hoặc dùng web service https://www.plantuml.com/plantuml.
-- Mở file `.puml`, export PNG.
-
 ## Link Jira project:
 - <https://congnghephanmem123.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog>
 
