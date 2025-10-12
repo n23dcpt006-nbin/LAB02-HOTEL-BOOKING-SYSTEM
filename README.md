@@ -1,5 +1,3 @@
-
-
 # Lab02 - Hotel Booking System (Mini Project)
 
 ## Mục tiêu
